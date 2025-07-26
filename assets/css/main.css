@@ -2888,7 +2888,7 @@ input, select, textarea {
 				background-color: rgba(36, 41, 67, 0.15) !important;
 			}
 			.tiles article:before {
-				opacity: 0.3 !important;
+				opacity: 0.5 !important;
 			}
 		}
 		
